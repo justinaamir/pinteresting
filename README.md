@@ -1,4 +1,4 @@
-# Rails Web App
+# Pinteresting Sample App
 
 This is the pinteresting sample application for
 [*Rails Web Development*](http://onemonthrails.com)
