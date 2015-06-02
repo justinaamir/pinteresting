@@ -1,6 +1,6 @@
-# One Month Rails
+# Rails Web App
 
 This is the pinteresting sample application for
-[*One Month Rails*](http://onemonthrails.com)
+[*Rails Web Development*](http://onemonthrails.com)
 
 by Brock Green (http://brockgreendesigns.com)
