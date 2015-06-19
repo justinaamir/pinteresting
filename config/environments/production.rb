@@ -74,5 +74,8 @@ Rails.application.configure do
   config.log_formatter = ::Logger::Formatter.new
 
   # Do not dump schema after migrations.
-  config.active_record.dump_schema_after_migration = false
+ 
+ # Required for Heroku
+  # Note set this to your actual host
+ config.action_mailer.default_url_options = { :host => 'http://pinteresting-commits.herokuapp.com/' } config.active_record.dump_schema_after_migration = false
 end
