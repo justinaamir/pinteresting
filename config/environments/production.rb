@@ -77,5 +77,5 @@ Rails.application.configure do
  
  # Required for Heroku
   # Note set this to your actual host
- config.action_mailer.default_url_options = { :host => "https://omr-bgd-pinteresting.herokuapp.com" } config.active_record.dump_schema_after_migration = false
+ config.action_mailer.default_url_options = { :host => 'localhost:3000' }
 end
